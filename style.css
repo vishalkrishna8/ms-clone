@@ -27,7 +27,7 @@ ul{
 .main-nav{
     display: flex;
     align-items: center;
-    justify-content: right;
+    justify-content: center;
     height: 60px;
     padding: 20px 0;
     font-size: 13px;

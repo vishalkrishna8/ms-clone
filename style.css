@@ -23,6 +23,7 @@ ul{
     max-width: 1100px;
     margin: auto;
 }
+
 /* nav  */
 
 .main-nav{
@@ -127,6 +128,7 @@ ul{
     align-items: center;
     text-decoration: underline;
 }
+
 /* home cards  */
 
 .home-cards{
@@ -160,7 +162,9 @@ font-weight: bold;
 .home-cards a:hover{
 margin-left: 10px;    
 }
+
 /* showcase2  */
+
 .sh-img2{
     position: relative;
     margin-left: 2vw;
@@ -195,7 +199,9 @@ margin-left: 10px;
     justify-content: center;
     padding-left: 20px;
  }
+
  /* home cards 2  */
+
  .home-cards-2{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -226,7 +232,9 @@ margin-left: 10px;
     .home-cards-2 a:hover{
     margin-left: 10px;    
     }
+
     /* follow  */
+
     .follow{
         display: flex;
         gap: 20px;
@@ -239,7 +247,9 @@ margin-left: 10px;
         font-weight: bold;
 
     }
+
     /* links  */
+
     .links{
         background:#e9e8e8;
         /* color: #616161; */
@@ -261,7 +271,9 @@ margin-left: 10px;
     /* .links li{
         line-height: 2.8;
     } */
+
     /* footer  */
+
     .footer{
         background:#e9e8e8;
         /* color: #616161; */

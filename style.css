@@ -175,7 +175,7 @@ margin-left: 10px;
 .showcase-2{
      width: 30vw;
      height: 40vh;
-     position: absolute;
+     position: relative;
      overflow: visible;
      box-sizing:content-box ;
      /* border-radius: 5px; */

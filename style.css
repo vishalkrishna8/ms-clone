@@ -27,7 +27,7 @@ ul{
 /* nav  */
 
 .main-nav{
-    display: flex;
+    display: flex-end;
     align-items: center;
     justify-content: center;
     height: 60px;
